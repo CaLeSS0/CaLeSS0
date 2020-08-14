@@ -18,6 +18,6 @@ welcome_message(user)
 <a href="http://datahacker.rs/the-hundred-page-computer-vision-opencv-book-in-python/"><img src="http://media5.datahacker.rs/2020/05/10-768x1046.jpg" alt="100-page opencv book" width="250" height="350"></a>
 
 ## Projects
-You can check all of my work on the following blog [datahacker.rs](www.datahacker.rs)
+You can check all of my work on the following blog [datahacker.rs](https://datahacker.rs/)
  
 
