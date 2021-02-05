@@ -1,13 +1,12 @@
 ```python
-def welcome_message(user) {
-
- if not user.visited_my_profile:
-  print(f"Hello {user.name}, my name is Strahinja")
-  print("I am a junior Data Scientist and Software Engineer")
+def welcome_message(user):
+  if not user.visited_my_profile:
+     print(f"Hello {user.name}, my name is Strahinja")
+     print("I am a junior Data Scientist and Software Engineer")
   
- else:
-  print(f"What's up {user.nickname}?")
-}
+   else:
+     print(f"What's up {user.nickname}?")
+
 
 welcome_message(user)
 ```
