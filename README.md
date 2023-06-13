@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Cale, a computer vision engineer👨‍💻 Working remotely 🚀</div>  
+### <div align="center">I'm Cale, a computer vision engineer👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working at EyeSee and [datahacker.rs](https://datahacker.rs)  
+- 🔭 I’m currently working at Rivian and [datahacker.rs](https://datahacker.rs)  
   
 
 - ❓ Ask me about anything related to computer vision and deep learning  
